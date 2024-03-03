@@ -1,0 +1,21 @@
+body {
+    background-color:aqua;
+}
+
+h1 {font-family: sans-serif; text-align: center;}
+
+h2,h3,h4,h5, h6 {font-family: sans-serif;text-transform:uppercase ;}
+
+img{ border-radius: 50%;}
+
+li {font-family:Verdana, Geneva, Tahoma, sans-serif; margin-bottom:5px;}
+
+body,p,span, ul, ol,li {text-align: center;}
+
+span {font-family: Verdana, Geneva, Tahoma, sans-serif; margin-bottom: 5px;}
+
+section, p { font-family: Verdana, Geneva, Tahoma, sans-serif; margin-bottom: 5px;}
+
+section, ul, ol { list-style-position:inside;}
+
+
